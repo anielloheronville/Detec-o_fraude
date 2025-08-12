@@ -1,5 +1,7 @@
 Dashboard de Detecção de Fraudes com Machine Learning e Streamlit
+
 📖 Descrição do Projeto
+
 Este projeto implementa uma solução de ponta a ponta (end-to-end) para a detecção de fraudes em transações de cartão de crédito. O objetivo é ir além da simples análise de dados, construindo um pipeline completo que inclui:
 
 Limpeza e preparação de dados.
@@ -11,6 +13,7 @@ Criação de um dashboard web interativo para análise e previsões em tempo rea
 O projeto utiliza um dataset anonimizado contendo transações financeiras e aplica técnicas avançadas para identificar padrões e prever com alta precisão quais transações são provavelmente fraudulentas.
 
 ✨ Principais Funcionalidades
+
 Limpeza de Dados Robusta: Scripts para tratar dados mal formatados, garantindo a qualidade e integridade das informações para o modelo.
 
 Treinamento de Modelos: Implementação e comparação entre RandomForest e LightGBM, um poderoso algoritmo de Gradient Boosting.
@@ -28,6 +31,7 @@ Previsão de Fraude: Uma ferramenta para inserir dados de uma nova transação e
 Deploy do Modelo: O modelo treinado e o scaler são salvos em arquivos (.joblib e .pkl), simulando um ambiente de produção onde podem ser carregados e utilizados pela aplicação.
 
 🚀 Demo do Dashboard
+
 (Dica: Tire um print da sua aplicação rodando e substitua o link abaixo pela imagem)
 
 🛠️ Tecnologias Utilizadas
