@@ -1,14 +1,6 @@
-# Arquivo de dependências para o Projeto de Detecção de Fraudes
-
-# Core de Dados e Machine Learning
-pandas==2.2.2
-numpy==1.26.4
-scikit-learn==1.4.2
-lightgbm==4.3.0
-joblib==1.4.2
-
-# Dashboard e Visualização
-streamlit==1.35.0
-plotly-express==0.4.1
-seaborn==0.13.2
-matplotlib==3.8.4
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+gdown
