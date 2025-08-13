@@ -22,6 +22,7 @@ joblib==1.5.1
 jsonschema==4.24.0
 jsonschema-specifications==2025.4.1
 kiwisolver==1.4.8
+lightgbm-4.6.0
 MarkupSafe==3.0.2
 matplotlib==3.10.3
 narwhals==1.43.0
@@ -60,3 +61,4 @@ tzdata==2025.2
 urllib3==2.4.0
 watchdog==6.0.0
 zope.interface==7.2
+
