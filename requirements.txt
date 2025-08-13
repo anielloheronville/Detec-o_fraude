@@ -5,4 +5,7 @@ plotly
 scikit-learn
 gdown
 joblib
+pickle
+
+
 
